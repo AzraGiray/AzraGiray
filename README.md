@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I am Azra Giray and I am a CS student at Bilkent University.
 
 <!--
 **AzraGiray/AzraGiray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
